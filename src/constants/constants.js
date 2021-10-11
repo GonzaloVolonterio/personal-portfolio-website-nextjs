@@ -15,8 +15,8 @@ export const projects = [
       "An app that contains a different kinds of delicious recipes for your taste. You can filter through categories and find the one that suits you",
     image: "/images/2.png",
     tags: ["React", "JavaScript", "Node", "API"],
-    source: "https://github.com/GonzaloVolonterio/catalogoderecetas",
-    visit: "https://catalogoderecetas.netlify.app/",
+    visit: "https://github.com/GonzaloVolonterio/catalogoderecetas",
+    source: "https://catalogoderecetas.netlify.app/",
     id: 1,
   },
   {
@@ -25,8 +25,8 @@ export const projects = [
       "An app for search places, Fetching restaurants, hotels and attractions based on location from specialized Rapid APIs, data filtering and much more(work localy) ",
     image: "/images/3.png",
     tags: ["React", "JavaScript", "Node", "API"],
-    visit: "https://react-travel-advisor.netlify.app/",
-    source: "https://github.com/GonzaloVolonterio/react-travel-advisor",
+    visit: "https://github.com/GonzaloVolonterio/react-travel-advisor",
+    source: "https://react-travel-advisor.netlify.app/",
     id: 2,
   },
   {
@@ -35,8 +35,8 @@ export const projects = [
       "An application to show the latest images of the day provided by NASA, you can add to favorites and delete them",
     image: "/images/4.png",
     tags: ["JavaScript", "API"],
-    visit: "https://gonzalovolonterio.github.io/nasa-api-pictures/",
-    source: "https://github.com/GonzaloVolonterio/nasa-api-pictures",
+    visit: "https://github.com/GonzaloVolonterio/nasa-api-pictures",
+    source: "https://gonzalovolonterio.github.io/nasa-api-pictures/",
     id: 3,
   },
 ];

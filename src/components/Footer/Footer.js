@@ -20,8 +20,8 @@ const Footer = () => {
       <LinkList>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
-          <LinkItem href='mailto:volonteriogonzalodev@gmail.com'>
-            volonteriogonzalodev@gmail.com
+          <LinkItem href='mailto:volonteriogonzalo.dev@gmail.com'>
+            volonteriogonzalo.dev@gmail.com
           </LinkItem>
         </LinkColumn>
       </LinkList>
@@ -29,11 +29,6 @@ const Footer = () => {
         <CompanyContainer>
           <Slogan>Innovating one project at a time</Slogan>
         </CompanyContainer>
-        <SocialContainer>
-          <SocialIcons href='https://github.com/gonzalovolonterio'>
-            <AiFillGithub size='3rem' />
-          </SocialIcons>
-        </SocialContainer>
         <SocialContainer>
           <SocialIcons href='https://github.com/gonzalovolonterio'>
             <AiFillGithub size='3rem' />
