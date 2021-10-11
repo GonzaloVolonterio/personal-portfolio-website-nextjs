@@ -1,3 +1,3 @@
 Personal Portfolio
 
-https://nextjs-blog-portfolio-website.vercel.app/
+https://nextjs-blog-website-portfolio-gonzalovolonterio.vercel.app/
