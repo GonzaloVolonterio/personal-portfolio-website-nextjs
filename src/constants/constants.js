@@ -45,11 +45,11 @@ export const TimeLineData = [
   { year: 2020, text: "Study in Codecademy" },
   {
     year: 2021,
-    text: "Course Front End Development Libraries Back End Development (in progress) in FreecodeCamp",
+    text: "Course Front End Development Libraries,Back End Development (in progress) by FreecodeCamp",
   },
   {
     year: 2021,
-    text: "Google Data Analytics Beginners",
+    text: "Google Data Analytics Beginners, Full Stack by Codecademy",
   },
   { year: 2021, text: "Develop attractive and modern intuitive applications" },
 ];
