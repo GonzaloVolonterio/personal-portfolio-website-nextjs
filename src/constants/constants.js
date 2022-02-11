@@ -41,3 +41,27 @@ export const projects = [
   },
 ];
 
+export const TimeLineData = [
+  { year: 2020,
+   text: "Study in Codecademy"
+   },
+  {
+    year: 2021, 
+     text: "Course Front End Development Libraries by FreecodeCamp",
+  },
+  {
+    year: 2021,
+     text: "Full-Stack Engineer Career Path, Front-end Back-end",
+  },
+   {
+    year: 2021,
+    text: "Google Data Analytics Beginners, Full Stack by Codecademy",
+  },
+  { year: 2021, 
+    text: "Develop attractive and modern intuitive applications" 
+  },
+  { year: 2022, 
+    text: "Alkemy acceleration Ready to work"
+  },
+];
+
