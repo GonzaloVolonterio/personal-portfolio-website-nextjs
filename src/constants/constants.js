@@ -1,40 +1,40 @@
 export const projects = [
   {
-    title: "Crypto Currency",
+    title: "Real Estate App",
     description:
-      "An app for search all the crypto currencies in the market , you can check the last exchanges and the most important and relevant news about the crypto money",
+      "Real Estate App with rental homes and for-sale properties,advanced property filtering,property details page with an image carousel.",
     image: "/images/1.png",
-    tags: ["React", "Node", "JavaScript", "API"],
-    visit: "https://github.com/GonzaloVolonterio/react-cryptoverse",
-    source: "https://react-cryptoverse.netlify.app",
+    tags: ["React", "Nextjs","Chakra-ui", "JavaScript","Axios", "API"],
+    visit: "https://github.com/GonzaloVolonterio/real-estate-nextjs-app",
+    source: "https://real-estate-nextjs-app.vercel.app/",
     id: 0,
-  },
-  {
-    title: "Catalogue of recipes",
-    description:
-      "An app that contains a different kinds of delicious recipes for your taste. You can filter through categories and find the one that suits you",
-    image: "/images/2.png",
-    tags: ["React", "JavaScript", "Node", "API"],
-    visit: "https://github.com/GonzaloVolonterio/catalogoderecetas",
-    source: "https://catalogoderecetas.netlify.app/",
-    id: 1,
   },
   {
     title: "Travel Advisor",
     description:
-      "An app for search places, Fetching restaurants, hotels and attractions based on location from specialized Rapid APIs, data filtering and much more(work localy) ",
+      "Application using Google Maps with Geolocation,searching places,fetching restaurants,hotels,attractions,data filtering(work localy).",
     image: "/images/3.png",
-    tags: ["React", "JavaScript", "Node", "API"],
+    tags: ["React", "React-hooks", "JavaScript", "Google Map Api"],
     visit: "https://github.com/GonzaloVolonterio/react-travel-advisor",
     source: "https://react-travel-advisor.netlify.app/",
+    id: 1,
+  },
+   {
+    title: "Catalogue of recipes",
+    description:
+      "An app that contains a different kinds of delicious recipes for your taste. You can filter through categories and find the one that suits you",
+    image: "/images/2.png",
+    tags: ["React", "Redux", "JavaScript", "Node", "API", "Test"],
+    visit: "https://github.com/GonzaloVolonterio/catalogoderecetas",
+    source: "https://catalogueofrecipes.netlify.app/",
     id: 2,
   },
   {
-    title: "Astronomy Picture of the Day NASA Api",
+    title: "Unichat Application",
     description:
-      "An application to show the latest images of the day provided by NASA, you can add to favorites and delete them",
+      "Full Realtime Chat Application with Social-Auth,dedicated.chat.with APIs/sockets.",
     image: "/images/4.png",
-    tags: ["JavaScript", "API"],
+        tags: ["React", "React-hooks", "JavaScript", "Axios", "Firebase", "API"],
     visit: "https://github.com/GonzaloVolonterio/nasa-api-pictures",
     source: "https://gonzalovolonterio.github.io/nasa-api-pictures/",
     id: 3,
@@ -42,14 +42,26 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2020, text: "Study in Codecademy" },
+  { year: 2020,
+   text: "Study in Codecademy"
+   },
   {
-    year: 2021,
-    text: "Course Front End Development Libraries,Back End Development (in progress) by FreecodeCamp",
+    year: 2021, 
+     text: "Course Front End Development Libraries by FreecodeCamp",
   },
   {
+    year: 2021,
+     text: "Full-Stack Engineer Career Path, Front-end Back-end",
+  },
+   {
     year: 2021,
     text: "Google Data Analytics Beginners, Full Stack by Codecademy",
   },
-  { year: 2021, text: "Develop attractive and modern intuitive applications" },
+  { year: 2021, 
+    text: "Develop attractive and modern intuitive applications" 
+  },
+  { year: 2022, 
+    text: "Alkemy acceleration Ready to work"
+  },
 ];
+

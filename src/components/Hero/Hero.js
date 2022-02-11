@@ -5,7 +5,6 @@ import {
   SectionText,
   SectionTitle,
 } from "../../styles/GlobalComponents";
-import Button from "../../styles/GlobalComponents/Button";
 import { LeftSection } from "./Herostyles";
 
 const Hero = (props) => (
@@ -17,9 +16,7 @@ const Hero = (props) => (
           My Personal Portfolio
         </SectionTitle>
         <SectionText>
-          My name is Gonzalo Volonterio the developer you need to do better
-          interactive and attrative application. I live in San Fernando, Buenos
-          Aires Argentina. Here you can see my last project.
+          My name is Gonzalo Volonterio the developer you need to do interactive attractive and nice application. I live in San Fernando, Buenos Aires Argentina. Here you can see my last project.
         </SectionText>
       </LeftSection>
     </Section>
