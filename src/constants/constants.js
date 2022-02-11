@@ -25,8 +25,8 @@ export const projects = [
       "An app that contains a different kinds of delicious recipes for your taste. You can filter through categories and find the one that suits you",
     image: "/images/2.png",
     tags: ["React", "Redux", "JavaScript", "Node", "API", "Test"],
-    visit: "https://github.com/GonzaloVolonterio/catalogoderecetas",
-    source: "https://catalogueofrecipes.netlify.app/",
+    visit: "https://github.com/GonzaloVolonterio/catalogue-of-recipes",
+    source: "https://catalogue-of-recipes.netlify.app/",
     id: 2,
   },
   {
@@ -35,8 +35,8 @@ export const projects = [
       "Full Realtime Chat Application with Social-Auth,dedicated.chat.with APIs/sockets.",
     image: "/images/4.png",
         tags: ["React", "React-hooks", "JavaScript", "Axios", "Firebase", "API"],
-    visit: "https://github.com/GonzaloVolonterio/nasa-api-pictures",
-    source: "https://gonzalovolonterio.github.io/nasa-api-pictures/",
+    visit: "https://github.com/GonzaloVolonterio/react-unichat",
+    source: "https://unichatreactchat.netlify.app/",
     id: 3,
   },
 ];
@@ -51,11 +51,11 @@ export const TimeLineData = [
   },
   {
     year: 2021,
-     text: "Full-Stack Engineer Career Path, Front-end Back-end",
+     text: "Full-Stack Engineer Career Path, Front-end Back-end by Codecademy",
   },
    {
     year: 2021,
-    text: "Google Data Analytics Beginners, Full Stack by Codecademy",
+    text: "Google Data Analytics Beginners",
   },
   { year: 2021, 
     text: "Develop attractive and modern intuitive applications" 
