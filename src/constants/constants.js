@@ -12,7 +12,7 @@ export const projects = [
    {
     title: "Jobify Mern",
     description:
-      "Generates a user to be able to create, modify and delete work proposals with statistical graph.",
+      "Generates a user to be able to create modify and delete work proposals with statistical graph.",
     image: "/images/5.png",
         tags: ["React", "Context", "Nodejs", "Express", "MongoDb"],
     visit: "https://github.com/GonzaloVolonterio/jobify-mern",
