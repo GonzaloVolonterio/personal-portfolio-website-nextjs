@@ -32,6 +32,8 @@ const Technologies = () => (
           <ListParagraph>
             Experiece with <br />
             React <br />
+            React Redux <br />
+            React Context <br />
             JavaScript <br />
             TypeScript <br />
             Next.js <br />
@@ -47,9 +49,11 @@ const Technologies = () => (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Node <br />
+            NodeJs <br />
              Firebase <br />
-              Mongodb <br />
+             Express <br />
+             Mongodb <br />
+             PHP <br />
              and more Databases
           </ListParagraph>
         </ListContainer>
