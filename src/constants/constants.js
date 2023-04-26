@@ -10,14 +10,14 @@ export const projects = [
     id: 0,
   },
    {
-    title: "Jobify Mern",
+    title: "Travel Advisor",
     description:
-      "Generates a user to be able to create modify and delete work proposals with statistical graph.",
-    image: "/images/5.png",
-        tags: ["React", "Context", "Nodejs", "Express", "MongoDb"],
-    visit: "https://github.com/GonzaloVolonterio/jobify-mern",
-    source: "https://jobifymern.onrender.com",
-    id: 4,
+      "Application using Google Maps with Geolocation,searching places,fetching restaurants,hotels,attractions,data filtering(work localy).",
+    image: "/images/3.png",
+    tags: ["React", "JavaScript", "Material UI", "Google Map Api"],
+    visit: "https://github.com/GonzaloVolonterio/react-travel-advisor",
+    source: "https://react-travel-advisor.netlify.app/",
+    id: 1,
   },
    {
     title: "Catalogue of recipes",
@@ -39,15 +39,35 @@ export const projects = [
     source: "https://unichatreactchat.netlify.app/",
     id: 3,
   },
-  {
-    title: "Travel Advisor",
+   {
+    title: "Jobify Mern",
     description:
-      "Application using Google Maps with Geolocation,searching places,fetching restaurants,hotels,attractions,data filtering(work localy).",
-    image: "/images/3.png",
-    tags: ["React", "JavaScript", "Material UI", "Google Map Api"],
-    visit: "https://github.com/GonzaloVolonterio/react-travel-advisor",
-    source: "https://react-travel-advisor.netlify.app/",
-    id: 1,
+      "Generates a user to be able to create modify and delete work proposals with statistical graph.",
+    image: "/images/5.png",
+        tags: ["React", "Context", "Nodejs", "Express", "MongoDb"],
+    visit: "https://github.com/GonzaloVolonterio/jobify-mern",
+    source: "https://jobifymern.onrender.com",
+    id: 4,
+  },  
+{
+    title: "OnlyFans Clone",
+    description:
+      "OnlyFans clone app is a full stack app, front end and back end for mobile,replicates the features and functionality to the same. Scan QR code with Expo",
+    image: "/images/6.png",
+    tags: ["React Native", "Expo", "JavaScript", "AWS"],
+    visit: "https://github.com/GonzaloVolonterio/react-native-onlyfans-clone-app",
+    source: "https://expo.dev/@gonzalovolonterio/react-native-onlyfans-clone-app?serviceType=classic&distribution=expo-go",
+    id: 5,
+  },
+{
+    title: "Jobs Tracking App for mobile",
+    description:
+      "Jobs is tracking app for mobile where you can search, filter for the latest offers work based on the API of RapidApi. Scan QR code with Expo",
+    image: "/images/7.png",
+    tags: ["React Native", "Expo", "React-hook", "Api" ],
+    visit: "https://github.com/GonzaloVolonterio/react-native-jobs-app",
+    source: "https://expo.dev/@gonzalovolonterio/react-native-jobs?serviceType=classic&distribution=expo-go",
+    id: 6,
   },
 ];
 
