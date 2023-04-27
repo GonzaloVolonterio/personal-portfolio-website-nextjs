@@ -13,6 +13,8 @@ import {
   SocialContainer,
   SocialIconsContainer,
 } from "./FooterStyles";
+ //export NODE_OPTIONS=--openssl-legacy-provider
+
 
 const Footer = () => {
   return (
